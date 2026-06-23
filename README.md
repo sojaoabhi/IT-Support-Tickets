@@ -133,7 +133,7 @@ The objective of this lab was to practice structured troubleshooting, incident m
 
 ```text
 IT-Support-Tickets/
-││
+│
 └── Tickets/
     ├── Ticket_1_VPN_Connectivity_and_Network_Drive_Access/
     │   ├── README.md
